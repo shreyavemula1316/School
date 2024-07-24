@@ -1,0 +1,332 @@
+[
+    {
+      "name": "Dr. Jane Smith",
+      "role": "Head of Science Department",
+      "qualifications": "PhD in Biochemistry",
+      "experience": "Over 15 years of experience in teaching and research.",
+      "bio": "Dr. Smith is a passionate educator who is dedicated to advancing scientific knowledge and fostering student curiosity."
+    },
+    {
+      "name": "Mr. John Doe",
+      "role": "Mathematics Teacher",
+      "qualifications": "MSc in Mathematics",
+      "experience": "10 years of experience in making mathematics engaging and accessible.",
+      "bio": "Mr. Doe specializes in innovative teaching methods to simplify complex mathematical concepts for students."
+    },
+    {
+      "name": "Ms. Emily Brown",
+      "role": "Language Arts Teacher",
+      "qualifications": "MA in English Literature",
+      "experience": "8 years of experience in teaching language arts and literature.",
+      "bio": "Ms. Brown is known for her creative approach to literature and her ability to inspire a love for reading and writing."
+    },
+    {
+      "name": "Dr. Michael Johnson",
+      "role": "Physics Teacher",
+      "qualifications": "PhD in Physics",
+      "experience": "12 years of experience in teaching physics and conducting research.",
+      "bio": "Dr. Johnson combines his expertise in physics with engaging teaching methods to inspire students."
+    },
+    {
+      "name": "Ms. Sarah Lee",
+      "role": "History Teacher",
+      "qualifications": "MA in History",
+      "experience": "9 years of experience in teaching history and social studies.",
+      "bio": "Ms. Lee is passionate about history and helps students connect historical events with modern-day issues."
+    },
+    {
+      "name": "Mr. Daniel Martinez",
+      "role": "Chemistry Teacher",
+      "qualifications": "MSc in Chemistry",
+      "experience": "11 years of experience in chemistry education and lab work.",
+      "bio": "Mr. Martinez is dedicated to making chemistry accessible and exciting for students through hands-on experiments."
+    },
+    {
+      "name": "Dr. Laura Wilson",
+      "role": "Biology Teacher",
+      "qualifications": "PhD in Biology",
+      "experience": "14 years of experience in biology education and research.",
+      "bio": "Dr. Wilson specializes in biological sciences and fosters a love for nature and science in her students."
+    },
+    {
+      "name": "Ms. Olivia White",
+      "role": "Art Teacher",
+      "qualifications": "BFA in Fine Arts",
+      "experience": "7 years of experience in teaching art and creativity.",
+      "bio": "Ms. White encourages artistic expression and helps students explore their creative potential."
+    },
+    {
+      "name": "Mr. James Clark",
+      "role": "Physical Education Teacher",
+      "qualifications": "MSc in Physical Education",
+      "experience": "10 years of experience in teaching physical education and sports.",
+      "bio": "Mr. Clark promotes physical fitness and teamwork through engaging sports and fitness activities."
+    },
+    {
+      "name": "Dr. Emily Adams",
+      "role": "Computer Science Teacher",
+      "qualifications": "PhD in Computer Science",
+      "experience": "13 years of experience in computer science and technology education.",
+      "bio": "Dr. Adams is dedicated to preparing students for the technological world with innovative computer science curriculum."
+    },
+    {
+      "name": "Mr. Robert Thomas",
+      "role": "Economics Teacher",
+      "qualifications": "MA in Economics",
+      "experience": "8 years of experience in teaching economics and finance.",
+      "bio": "Mr. Thomas provides students with a solid understanding of economic principles and their real-world applications."
+    },
+    {
+      "name": "Ms. Jennifer Davis",
+      "role": "Music Teacher",
+      "qualifications": "MMus in Music Education",
+      "experience": "6 years of experience in teaching music and performance.",
+      "bio": "Ms. Davis helps students develop their musical talents and appreciate various genres of music."
+    },
+    {
+      "name": "Dr. William Harris",
+      "role": "Philosophy Teacher",
+      "qualifications": "PhD in Philosophy",
+      "experience": "15 years of experience in teaching philosophy and ethics.",
+      "bio": "Dr. Harris encourages critical thinking and philosophical inquiry among students."
+    },
+    {
+      "name": "Ms. Lisa Robinson",
+      "role": "Spanish Teacher",
+      "qualifications": "MA in Spanish Language and Literature",
+      "experience": "9 years of experience in teaching Spanish and cultural studies.",
+      "bio": "Ms. Robinson fosters a love for the Spanish language and Hispanic cultures through interactive lessons."
+    },
+    {
+      "name": "Mr. David Lewis",
+      "role": "Geography Teacher",
+      "qualifications": "MSc in Geography",
+      "experience": "7 years of experience in teaching geography and environmental science.",
+      "bio": "Mr. Lewis provides students with a comprehensive understanding of geography and environmental issues."
+    },
+    {
+      "name": "Dr. Mary Walker",
+      "role": "Chemistry Teacher",
+      "qualifications": "PhD in Chemistry",
+      "experience": "12 years of experience in teaching chemistry and conducting research.",
+      "bio": "Dr. Walker engages students with dynamic chemistry lessons and experiments."
+    },
+    {
+      "name": "Ms. Karen Hall",
+      "role": "Drama Teacher",
+      "qualifications": "BFA in Theatre",
+      "experience": "8 years of experience in teaching drama and performing arts.",
+      "bio": "Ms. Hall inspires students through performance arts and creative expression."
+    },
+    {
+      "name": "Mr. Brian Scott",
+      "role": "Mathematics Teacher",
+      "qualifications": "MSc in Mathematics",
+      "experience": "9 years of experience in teaching mathematics and problem-solving.",
+      "bio": "Mr. Scott is dedicated to helping students excel in mathematics through innovative teaching techniques."
+    },
+    {
+      "name": "Ms. Patricia Young",
+      "role": "Physical Education Teacher",
+      "qualifications": "MA in Physical Education",
+      "experience": "11 years of experience in teaching physical education and sports.",
+      "bio": "Ms. Young promotes physical health and sportsmanship among students."
+    },
+    {
+      "name": "Dr. Richard King",
+      "role": "Biology Teacher",
+      "qualifications": "PhD in Biology",
+      "experience": "13 years of experience in biology and environmental science education.",
+      "bio": "Dr. King specializes in environmental biology and fosters a love for nature in his students."
+    },
+    {
+      "name": "Ms. Barbara Wright",
+      "role": "History Teacher",
+      "qualifications": "MA in History",
+      "experience": "7 years of experience in teaching history and social sciences.",
+      "bio": "Ms. Wright engages students with historical events and their impacts on contemporary society."
+    },
+    {
+      "name": "Mr. Thomas Moore",
+      "role": "Computer Science Teacher",
+      "qualifications": "MSc in Computer Science",
+      "experience": "10 years of experience in teaching computer science and programming.",
+      "bio": "Mr. Moore helps students develop their coding skills and understanding of computer systems."
+    },
+    {
+      "name": "Dr. Elizabeth Hall",
+      "role": "English Teacher",
+      "qualifications": "PhD in English Literature",
+      "experience": "14 years of experience in teaching literature and language arts.",
+      "bio": "Dr. Hall inspires students with her passion for literature and creative writing."
+    },
+    {
+      "name": "Mr. Kevin Allen",
+      "role": "Geography Teacher",
+      "qualifications": "MSc in Geography",
+      "experience": "8 years of experience in teaching geography and earth sciences.",
+      "bio": "Mr. Allen provides a comprehensive view of geographical concepts and environmental issues."
+    },
+    {
+      "name": "Ms. Emily Martinez",
+      "role": "Art Teacher",
+      "qualifications": "BFA in Fine Arts",
+      "experience": "7 years of experience in teaching visual arts and creativity.",
+      "bio": "Ms. Martinez encourages students to explore their artistic talents and express themselves through art."
+    },
+    {
+      "name": "Dr. Andrew Scott",
+      "role": "Physics Teacher",
+      "qualifications": "PhD in Physics",
+      "experience": "13 years of experience in teaching physics and conducting research.",
+      "bio": "Dr. Scott engages students with hands-on experiments and in-depth physics knowledge."
+    },
+    {
+      "name": "Ms. Stephanie Adams",
+      "role": "Music Teacher",
+      "qualifications": "MA in Music Education",
+      "experience": "8 years of experience in teaching music and performance.",
+      "bio": "Ms. Adams helps students develop their musical skills and appreciation through engaging lessons."
+    },
+    {
+      "name": "Mr. Richard Nelson",
+      "role": "Economics Teacher",
+      "qualifications": "MA in Economics",
+      "experience": "9 years of experience in teaching economics and finance.",
+      "bio": "Mr. Nelson provides a solid foundation in economics principles and financial literacy."
+    },
+    {
+      "name": "Dr. Laura Lewis",
+      "role": "Philosophy Teacher",
+      "qualifications": "PhD in Philosophy",
+      "experience": "12 years of experience in teaching philosophy and critical thinking.",
+      "bio": "Dr. Lewis encourages philosophical inquiry and critical analysis in her students."
+    },
+    {
+      "name": "Ms. Karen Hall",
+      "role": "Spanish Teacher",
+      "qualifications": "MA in Spanish Language and Literature",
+      "experience": "10 years of experience in teaching Spanish and cultural studies.",
+      "bio": "Ms. Hall promotes language acquisition and cultural appreciation through interactive lessons."
+    },
+    {
+      "name": "Mr. Daniel Roberts",
+      "role": "Drama Teacher",
+      "qualifications": "BFA in Theatre Arts",
+      "experience": "6 years of experience in teaching drama and performance.",
+      "bio": "Mr. Roberts inspires students with his knowledge and passion for the performing arts."
+    },
+    {
+      "name": "Dr. Michelle Lewis",
+      "role": "Biology Teacher",
+      "qualifications": "PhD in Biology",
+      "experience": "11 years of experience in teaching biology and environmental science.",
+      "bio": "Dr. Lewis provides an engaging biology curriculum and fosters a love for the natural world."
+    },
+    {
+      "name": "Ms. Rebecca White",
+      "role": "Art Teacher",
+      "qualifications": "BFA in Visual Arts",
+      "experience": "7 years of experience in teaching art and design.",
+      "bio": "Ms. White helps students develop their artistic skills and express their creativity."
+    },
+    {
+      "name": "Mr. James Wilson",
+      "role": "Physics Teacher",
+      "qualifications": "MSc in Physics",
+      "experience": "8 years of experience in teaching physics and conducting research.",
+      "bio": "Mr. Wilson makes complex physics concepts accessible through engaging teaching methods."
+    },
+    {
+      "name": "Dr. Susan Thompson",
+      "role": "Computer Science Teacher",
+      "qualifications": "PhD in Computer Science",
+      "experience": "12 years of experience in teaching computer science and software development.",
+      "bio": "Dr. Thompson helps students excel in technology and programming through innovative teaching techniques."
+    },
+    {
+      "name": "Ms. Jennifer White",
+      "role": "English Teacher",
+      "qualifications": "MA in English Literature",
+      "experience": "9 years of experience in teaching literature and language.",
+      "bio": "Ms. White inspires students with her passion for literature and creative writing."
+    },
+    {
+      "name": "Mr. Eric Harris",
+      "role": "History Teacher",
+      "qualifications": "MSc in History",
+      "experience": "10 years of experience in teaching history and social sciences.",
+      "bio": "Mr. Harris provides an engaging history curriculum and helps students understand historical contexts."
+    },
+    {
+      "name": "Dr. Laura Harris",
+      "role": "Spanish Teacher",
+      "qualifications": "PhD in Spanish Language",
+      "experience": "11 years of experience in teaching Spanish and cultural studies.",
+      "bio": "Dr. Harris promotes a deep understanding of the Spanish language and Hispanic cultures."
+    },
+    {
+      "name": "Ms. Sarah Brown",
+      "role": "Drama Teacher",
+      "qualifications": "BFA in Performing Arts",
+      "experience": "6 years of experience in teaching drama and theater.",
+      "bio": "Ms. Brown encourages students to explore their creative potential through performance arts."
+    },
+    {
+      "name": "Mr. Thomas Johnson",
+      "role": "Economics Teacher",
+      "qualifications": "MA in Economics",
+      "experience": "8 years of experience in teaching economics and finance.",
+      "bio": "Mr. Johnson provides students with a strong understanding of economic principles and financial literacy."
+    },
+    {
+      "name": "Dr. Emily Wilson",
+      "role": "Chemistry Teacher",
+      "qualifications": "PhD in Chemistry",
+      "experience": "14 years of experience in teaching chemistry and conducting research.",
+      "bio": "Dr. Wilson engages students with exciting chemistry lessons and experiments."
+    },
+    {
+      "name": "Ms. Olivia Johnson",
+      "role": "Music Teacher",
+      "qualifications": "MMus in Music Education",
+      "experience": "8 years of experience in teaching music and performance.",
+      "bio": "Ms. Johnson helps students develop their musical talents and appreciation for various genres."
+    },
+    {
+      "name": "Mr. Jacob Miller",
+      "role": "Geography Teacher",
+      "qualifications": "MSc in Geography",
+      "experience": "9 years of experience in teaching geography and environmental science.",
+      "bio": "Mr. Miller provides students with a comprehensive understanding of geographical and environmental issues."
+    },
+    {
+      "name": "Dr. Rebecca Lee",
+      "role": "Biology Teacher",
+      "qualifications": "PhD in Biology",
+      "experience": "13 years of experience in teaching biology and environmental science.",
+      "bio": "Dr. Lee specializes in environmental biology and fosters a love for nature in her students."
+    },
+    {
+      "name": "Ms. Angela Carter",
+      "role": "Language Arts Teacher",
+      "qualifications": "MA in English Literature",
+      "experience": "7 years of experience in teaching language arts and literature.",
+      "bio": "Ms. Carter inspires students with her passion for literature and creative writing."
+    },
+    {
+      "name": "Mr. Brian Davis",
+      "role": "Mathematics Teacher",
+      "qualifications": "MSc in Mathematics",
+      "experience": "9 years of experience in teaching mathematics and problem-solving.",
+      "bio": "Mr. Davis is dedicated to helping students excel in mathematics through engaging and effective teaching methods."
+    },
+    {
+      "name": "Dr. Amy Moore",
+      "role": "Physics Teacher",
+      "qualifications": "PhD in Physics",
+      "experience": "12 years of experience in teaching physics and conducting research.",
+      "bio": "Dr. Moore combines her expertise in physics with innovative teaching techniques to engage students."
+    }
+  ]
+  
