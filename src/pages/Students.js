@@ -24,45 +24,43 @@ const Students = () => {
           
           {/* Content */}
           <div className="flex-1">
-            
-            
             <div className="mb-8">
               <h3 className="text-2xl font-semibold mb-3">Extracurricular Activities</h3>
               <p className="mb-4">
-                Students can engage in a wide range of extracurricular activities that complement their academic learning. These activities include:
+                Our students engage in a vibrant array of activities beyond academics, including:
               </p>
               <ul className="list-disc list-inside ml-4">
-                <li>Sports teams: Enhancing physical fitness and teamwork.</li>
-                <li>Music and drama clubs: Encouraging artistic expression and creativity.</li>
-                <li>Debate societies: Developing public speaking and critical thinking skills.</li>
-                <li>Community service: Fostering a sense of social responsibility.</li>
+                <li>Sports teams: Promoting fitness and teamwork.</li>
+                <li>Art and Music: Fostering creative talents in visual arts and performance.</li>
+                <li>Debate and Public Speaking: Developing oratory skills and confidence.</li>
+                <li>Community Projects: Encouraging social responsibility and empathy.</li>
               </ul>
             </div>
             
             <div className="mb-8">
-              <h3 className="text-2xl font-semibold mb-3">Achievements and Accolades</h3>
+              <h3 className="text-2xl font-semibold mb-3">Achievements</h3>
               <p className="mb-4">
-                We celebrate our students' achievements in various domains, both academic and non-academic. Highlights include:
+                Our students excel in various domains, with notable accomplishments such as:
               </p>
               <ul className="list-disc list-inside ml-4">
-                <li>Awards in regional and national competitions.</li>
-                <li>Recognition for outstanding performances in arts and sports.</li>
-                <li>Special honors for academic excellence and innovation.</li>
+                <li>Winning regional and national competitions in academics and sports.</li>
+                <li>Outstanding performances in arts and cultural festivals.</li>
+                <li>Innovative projects and research recognized at science fairs.</li>
               </ul>
             </div>
             
             <div>
-              <h3 className="text-2xl font-semibold mb-3">Student Council and Leadership Opportunities</h3>
+              <h3 className="text-2xl font-semibold mb-3">Student Council</h3>
               <p className="mb-4">
-                The Student Council provides a platform for students to take on leadership roles and contribute to school life. Key opportunities include:
+                Our Student Council leads by example, fostering leadership and organizational skills. Key members include:
               </p>
               <ul className="list-disc list-inside ml-4">
-                <li>Representing student interests and voicing concerns.</li>
-                <li>Organizing and leading school events and initiatives.</li>
-                <li>Participating in decision-making processes affecting student welfare.</li>
+                <li>Amy Parker, Grade 12 - President</li>
+                <li>Rajiv Mehta, Grade 11 - Vice President</li>
+                <li>Lisa Wong, Grade 10 - Secretary</li>
               </ul>
               <p className="mt-4">
-                These roles help students develop essential leadership skills, responsibility, and teamwork.
+                The council organizes events, represents student interests, and contributes to school decisions.
               </p>
             </div>
           </div>

@@ -1,13 +1,20 @@
 import React from "react";
+import AboutBanner from "../components/AboutBanner";
+import History from "../components/History";
+import VisionMissionValues from "../components/Vision";
+import PrincipalMessage from "../components/PrincipalMessage";
+import Infrastructure from "../components/Infrastructure";
 
-const AboutUs = () =>{
-    return(
-     <div>
-        <div className="py-40 bg-black text-center text-white px-4">
-            <h2 className="text-5xl lg:text-7xl leading-snug font-bold mb-5">Welcome to About</h2>
-        </div>
-     </div>
-    )
-}
+const AboutUs = () => {
+  return (
+    <div>
+      <AboutBanner />
+      <History />
+      <VisionMissionValues />
+      <PrincipalMessage />
+      <Infrastructure />
+    </div>
+  );
+};
 
 export default AboutUs;

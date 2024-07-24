@@ -3,7 +3,14 @@ import GalleryItem from './GalleryItem';
 
 const GalleryContent = ({ filteredItems, filterType, setFilterType, filterDate, setFilterDate }) => (
   <div>
-    <div className="py-40 bg-black text-center text-white px-4">
+    {/* Banner Section */}
+    <div className="py-40 text-center text-white px-4"
+         style={{
+           backgroundImage: 'url(/event.png)', // Replace with your image path
+           backgroundSize: 'cover',
+           backgroundPosition: 'center',
+           backgroundRepeat: 'no-repeat'
+         }}>
       <h2 className="text-5xl lg:text-7xl leading-snug font-bold mb-5">School Events and Activities</h2>
     </div>
 

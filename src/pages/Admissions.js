@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import AdmissionForm from '../components/AdmissionForm'; 
+import AdmissionModal from '../components/AdmissionModel'; 
 
 const Admissions = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -13,7 +13,7 @@ const Admissions = () => {
         {/* Placeholder Image */}
         <div className="mb-6">
           <img
-            src="/admission.png" // Replace with your actual image URL
+            src="/admission.png" 
             alt="Admissions"
             className="w-full h-auto rounded-lg shadow-md"
           />
@@ -81,13 +81,7 @@ const Admissions = () => {
       </div>
 
       {/* Modal for Admission Form */}
-      {isModalOpen && (
-        <div className="fixed inset-0 bg-gray-900 bg-opacity-50 flex items-center justify-center z-50">
-          <div className="relative bg-white p-4 rounded-lg shadow-lg w-full max-w-md">
-            <AdmissionForm onClose={closeModal} />
-          </div>
-        </div>
-      )}
+      {isModalOpen && <AdmissionModal onClose={closeModal} />}
     </section>
   );
 };
