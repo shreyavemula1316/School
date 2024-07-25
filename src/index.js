@@ -13,6 +13,8 @@ import Gallery from './pages/Gallery';
 import Contact from './pages/Contact';
 import Academics from './pages/Academics';
 import Faculty from './pages/Faculty';
+import Admissions from './pages/Admissions';
+import Students from './pages/Students';
 
 const router = createBrowserRouter([
   {
@@ -42,6 +44,14 @@ const router = createBrowserRouter([
       {
         path:"/faculty",
         element:<Faculty/>
+      },
+      {
+        path:"/admissions",
+        element:<Admissions/>
+      },
+      {
+        path:"/student-activities",
+        element:<Students/>
       }
     ]
   },

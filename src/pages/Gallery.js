@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import GalleryContent from '../components/GalleryContent';
+import GalleryContent from '../components/Gallery/GalleryContent';
 
 const Gallery = () => {
   const [galleryItems, setGalleryItems] = useState([]);

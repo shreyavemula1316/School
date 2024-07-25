@@ -1,16 +1,16 @@
 import React from "react";
-import AboutBanner from "../components/AboutBanner";
-import History from "../components/History";
-import VisionMissionValues from "../components/Vision";
-import PrincipalMessage from "../components/PrincipalMessage";
-import Infrastructure from "../components/Infrastructure";
+import AboutBanner from "../components/About/AboutBanner";
+import History from "../components/About/History";
+import Vision from "../components/About/Vision";
+import PrincipalMessage from "../components/About/PrincipalMessage";
+import Infrastructure from "../components/About/Infrastructure";
 
 const AboutUs = () => {
   return (
     <div>
       <AboutBanner />
       <History />
-      <VisionMissionValues />
+      <Vision />
       <PrincipalMessage />
       <Infrastructure />
     </div>
