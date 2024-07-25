@@ -23,8 +23,23 @@ Make sure you have the following installed:
 
 ### Installation
 
+
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/model-school-website.git
    cd model-school-website
+   
+ 2. **Install Dependencies:**
+
+     ```bash
+   npm install
+
+ 3. **start server:**
+    
+    ```bash
+   npm run start
+   or
+   npm start
+
+  
