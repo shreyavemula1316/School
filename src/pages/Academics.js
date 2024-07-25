@@ -7,12 +7,14 @@ import Conduct from "../components/Academics/Conduct";
 
 const Academics = () => {
   return (
-    <div>
-      <Banner />
-      <Curriculum />
-      <Resources />
-      <Timetable />
-      <Conduct />
+    <div className="px-4 py-8 md:px-0 md:py-0 bg-gray-100">
+      <div className="max-w-full mx-auto">
+        <Banner />
+        <Curriculum />
+        <Resources />
+        <Timetable />
+        <Conduct />
+      </div>
     </div>
   );
 };
