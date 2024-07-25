@@ -33,13 +33,13 @@ Make sure you have the following installed:
  2. **Install Dependencies:**
 
      ```bash
-   npm install
+      npm install
 
  3. **start server:**
     
     ```bash
-   npm run start
-   or
-   npm start
+     npm run start
+     or
+     npm start
 
   
