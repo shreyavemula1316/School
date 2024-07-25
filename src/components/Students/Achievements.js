@@ -1,4 +1,4 @@
-// components/Achievements.js
+
 import React from "react";
 
 const achievements = [

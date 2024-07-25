@@ -3,9 +3,9 @@ import React from "react";
 const AboutBanner = () => {
   return (
     <div
-      className="py-20 text-center text-black px-4" // Adjusted padding
+      className="py-20 text-center text-black px-4" 
       style={{
-        backgroundImage: 'url("/images/about.png")', // Replace with your actual image URL
+        backgroundImage: 'url("/images/about.png")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}

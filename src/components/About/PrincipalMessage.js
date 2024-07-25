@@ -8,9 +8,9 @@ const PrincipalMessage = () => {
         <div className="flex flex-col lg:flex-row items-center gap-8">
           <div className="flex-shrink-0 mb-6 lg:mb-0">
             <img
-              src="images/principal.png" // Replace with your actual image URL
+              src="images/principal.png" 
               alt="Principal"
-              className="w-48 h-48 rounded-full mx-auto shadow-md" // Increased size
+              className="w-48 h-48 rounded-full mx-auto shadow-md"
             />
           </div>
           <div className="flex-1">

@@ -1,14 +1,14 @@
 import React from 'react';
-import facultyData from '../facultyData.json'; // Adjust the path based on where you place the JSON file
+import facultyData from '../facultyData.json'; 
 
 const Faculty = () => {
   return (
     <div>
       {/* Banner Section */}
       <div
-        className="py-20 text-center text-black px-4" // Adjusted padding for banner height
+        className="py-20 text-center text-black px-4" 
         style={{
-          backgroundImage: 'url(/images/faculty.png)', // Replace with your banner image path
+          backgroundImage: 'url(/images/faculty.png)', 
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',

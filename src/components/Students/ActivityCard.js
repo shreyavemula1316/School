@@ -1,4 +1,4 @@
-// components/ActivityCard.js
+
 import React from "react";
 
 const ActivityCard = ({ icon: Icon, color, title, description }) => {

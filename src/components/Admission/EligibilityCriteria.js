@@ -1,4 +1,4 @@
-// components/EligibilityCriteria.js
+
 import React from "react";
 
 const eligibilityData = [

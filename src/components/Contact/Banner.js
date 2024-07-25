@@ -1,4 +1,4 @@
-// components/Banner.js
+
 import React from "react";
 
 const Banner = () => {
@@ -6,7 +6,7 @@ const Banner = () => {
     <div
       className="py-24 text-center text-black px-4"
       style={{
-        backgroundImage: 'url("/images/contact.png")', // Replace with your actual image URL
+        backgroundImage: 'url("/images/contact.png")', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',

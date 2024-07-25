@@ -1,4 +1,4 @@
-// components/ClubsAndSocieties.js
+
 import React from "react";
 import { FaStar, FaLeaf, FaLaptopCode } from "react-icons/fa";
 import ClubCard from "./ClubCard";

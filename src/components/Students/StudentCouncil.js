@@ -1,4 +1,4 @@
-// components/StudentCouncil.js
+
 import React from "react";
 import { FaUsers } from "react-icons/fa";
 

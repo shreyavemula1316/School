@@ -1,4 +1,4 @@
-// components/ClubCard.js
+
 import React from "react";
 
 const ClubCard = ({ icon: Icon, color, title, description }) => {

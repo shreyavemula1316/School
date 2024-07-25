@@ -7,7 +7,7 @@ const imageUrls = [
   "https://www.sobtispublicschool.com/images/infra1.jpg",
   "https://www.vedasinternationalschool.com/wp-content/uploads/2018/04/classroom.jpg",
   "https://www.ashokaschools.org/icse-wadala/image-basket/physics-lab-ashoka-school-1546012677.jpg",
-  "https://www.stlukesschoolhp.com/images/lib_new.jpg", // Add more URLs as needed
+  "https://www.stlukesschoolhp.com/images/lib_new.jpg", 
   "https://englishtribuneimages.blob.core.windows.net/gallary-content/2019/12/Desk/2019_12$largeimg_1996425410.jpg"
 ];
 
@@ -19,7 +19,7 @@ const Infrastructure = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 3000, // 3 seconds for each slide
+    autoplaySpeed: 3000, 
   };
 
   return (

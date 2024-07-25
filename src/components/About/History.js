@@ -16,9 +16,9 @@ const History = () => {
           </div>
           <div className="flex-shrink-0 mb-6 lg:mb-0">
             <img
-              src="/images/history.png" // Replace with your actual image URL
+              src="/images/history.png" 
               alt="Historical Overview"
-              className="w-full max-w-xs h-48 object-cover rounded shadow-md" // Adjusted height and shape
+              className="w-full max-w-xs h-48 object-cover rounded shadow-md" 
             />
           </div>
         </div>

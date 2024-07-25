@@ -1,4 +1,4 @@
-// components/BannerSection.js
+
 import React from "react";
 
 const BannerSection = () => {
@@ -6,7 +6,7 @@ const BannerSection = () => {
     <div
       className="py-24 text-center text-black px-4"
       style={{
-        backgroundImage: 'url("/images/activities.png")', // Replace with your actual image URL
+        backgroundImage: 'url("/images/activities.png")', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}

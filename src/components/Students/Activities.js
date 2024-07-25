@@ -1,4 +1,4 @@
-// components/ExtracurricularActivities.js
+
 import React from "react";
 import { FaMusic, FaTheaterMasks, FaPaintBrush, FaRobot, FaBook } from "react-icons/fa";
 import { IoMdFootball } from "react-icons/io";
