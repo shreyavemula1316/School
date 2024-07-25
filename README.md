@@ -41,5 +41,5 @@ Make sure you have the following installed:
      npm run start
      or
      npm start
-
+-This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
   
