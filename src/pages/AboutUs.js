@@ -7,12 +7,14 @@ import Infrastructure from "../components/About/Infrastructure";
 
 const AboutUs = () => {
   return (
-    <div>
-      <AboutBanner />
-      <History />
-      <Vision />
-      <PrincipalMessage />
-      <Infrastructure />
+    <div className="px-4 py-8 md:px-0 md:py-0 bg-gray-100">
+      <div className="max-w-max mx-auto">
+        <AboutBanner />
+        <History />
+        <Vision />
+        <PrincipalMessage />
+        <Infrastructure />
+      </div>
     </div>
   );
 };
